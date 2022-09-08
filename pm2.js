@@ -2,9 +2,13 @@
 
 
 for (let j=1;j<=5;j++){
-     let bag="";
-for(let i=1;i<=5;i++){
+     let  bag="";
+
+for(let i=1;i<=j;i++){
     bag+="*"+" ";
 }
+                 
 console.log(bag);
+                  
 }
+
