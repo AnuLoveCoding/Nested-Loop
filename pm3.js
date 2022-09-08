@@ -11,5 +11,7 @@ for(let i=1;i<=4;i++){
     }
     console.log(bag1)
     console.log(bag);
+
+    
     
 }
